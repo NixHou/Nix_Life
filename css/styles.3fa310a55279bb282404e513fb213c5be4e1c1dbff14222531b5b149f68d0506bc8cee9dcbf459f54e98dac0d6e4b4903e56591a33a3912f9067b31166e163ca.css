@@ -9,6 +9,7 @@ html {
   --bg: var(--light);
   --bg-dark: #1C1C1C;
   --text: var(--dark);
+  --font: 'Orbitron', sans-serif;
   --theme: #67BAB5;
   --ease: cubic-bezier(.19,1,.22,1);
 }
@@ -49,6 +50,22 @@ html[data-mode="dim"] .color_choice::after {
   html:not([data-mode="lit"]) main p {
     opacity: 0.9;
   }
+}
+
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: local("Orbitron Regular"), local("Orbitron-Regular"), url("../fonts/Orbitron-Regular.ttf") format("ttf"), url("../fonts/Orbitron-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: local("Orbitron Medium"), local("Orbitron-Medium"), url("../fonts/Orbitron-Medium.ttf") format("ttf"), url("../fonts/Orbitron-Medium.ttf") format("ttf");
 }
 
 @keyframes showMenu {
