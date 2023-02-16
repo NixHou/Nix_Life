@@ -1,11 +1,8 @@
 baseurl = "https://nixhou.github.io/Nix_Life/"  # Include trailing slash
 title = "Nix Life"
-# this example loads the theme as hugo module
-# comment out line below, and uncomment the line after it if you prefer to load the theme normally
 theme = "newsroom"
 author = "Nix"
 canonifyurls = true
-# paginate = 3
 
 [markup]
   [markup.goldmark.renderer]
@@ -22,19 +19,6 @@ canonifyurls = true
     noClasses = false
     tabWidth = 2
 
-# If you want to use disqus, uncomment the line below
-# disqusShortname = "yourdiscussshortname"
-
-# ids used below are not valid. Replace with valid ones
 [params]
-  # locale = "en_US"
-  # ga_analytics = "" # google analytics ID e.g UA-116386578-1
-  # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
-  # twitter = "" # twitter handle e.g @weru
-  # mainSections = ["blog", "docs"] see https://gohugo.io/functions/where/#mainsections
-  # uncomment the line below will disable darkmode by default.
-  # uncomment and set value below to either "light" or "dark" to make default mode dark.
-  # defaultMode = "" # Note that the UI control for toggling darkmode will remain in place. This way, the user can decide which mode they would like to use while browsing your website
-  logo = "images/icons/logo.svg" # if the value is an empty string, the site title will be shown instead
   faviconsDir = "images/icons/" # with a trailing slash
   blogDir = "post" # edit
