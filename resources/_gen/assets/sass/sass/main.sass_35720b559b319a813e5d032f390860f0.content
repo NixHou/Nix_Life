@@ -15,12 +15,12 @@ html {
 }
 
 html[data-mode="dim"] {
-  --light: #eee;
+  --light: #FFFFFB;
   --color-mode: 'dim';
   --bg: var(--bg-dark);
   --text: var(--light);
   --accent: var(--bubble);
-  --theme: rgb(48,209,88);
+  --theme: #67BAB5;
 }
 
 html[data-mode="dim"] * {
@@ -37,12 +37,12 @@ html[data-mode="dim"] .color_choice::after {
 
 @media (prefers-color-scheme: dark) {
   html:not([data-mode="lit"]) {
-    --light: #eee;
+    --light: #FFFFFB;
     --color-mode: 'dim';
     --bg: var(--bg-dark);
     --text: var(--light);
     --accent: var(--bubble);
-    --theme: rgb(48,209,88);
+    --theme: #67BAB5;
   }
   html:not([data-mode="lit"]) * {
     box-shadow: none !important;
