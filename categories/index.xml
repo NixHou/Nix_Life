@@ -4,25 +4,6 @@
     <title>Categories on Nix Life</title>
     <link>https://nixhou.github.io/Nix_Life/categories/</link>
     <description>Recent content in Categories on Nix Life</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://nixhou.github.io/Nix_Life/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Development</title>
-      <link>https://nixhou.github.io/Nix_Life/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://nixhou.github.io/Nix_Life/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://nixhou.github.io/Nix_Life/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://nixhou.github.io/Nix_Life/categories/golang/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://nixhou.github.io/Nix_Life/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

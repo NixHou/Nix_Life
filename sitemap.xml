@@ -2,58 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nixhou.github.io/Nix_Life/</loc>
-    <lastmod>2019-08-25T00:52:59+03:00</lastmod>
-  </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nixhou.github.io/Nix_Life/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nixhou.github.io/Nix_Life/post/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/tags/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://nixhou.github.io/Nix_Life/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nixhou.github.io/Nix_Life/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nixhou.github.io/Nix_Life/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://nixhou.github.io/Nix_Life/tags/</loc>
   </url>
 </urlset>
