@@ -1,9 +1,9 @@
-baseurl = "https://example.com/"  # Include trailing slash
+baseurl = "https://nixhou.github.io/Nix_Life/"  # Include trailing slash
 title = "Newsroom"
 # this example loads the theme as hugo module
 # comment out line below, and uncomment the line after it if you prefer to load the theme normally
 theme = "newsroom"
-author = "Weru"
+author = "Nix"
 canonifyurls = true
 paginate = 6
 
