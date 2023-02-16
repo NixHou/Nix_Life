@@ -1,16 +1,15 @@
 @charset "UTF-8";
 html {
   --color-mode: "lit";
-  --light: #fff;
-  --dark: rgb(18,20,24);
+  --light: #FFFFFB;
+  --dark: #707C74;
   --gray: #f5f5f5;
-  --bubble: rgb(16,16,18);
+  --bubble: #1C1C1C;
   --accent: var(--gray);
   --bg: var(--light);
-  --bg-dark: #000;
+  --bg-dark: #1C1C1C;
   --text: var(--dark);
-  --font: 'Metropolis', sans-serif;
-  --theme: rgb(52,199,89);
+  --theme: #67BAB5;
   --ease: cubic-bezier(.19,1,.22,1);
 }
 
@@ -50,62 +49,6 @@ html[data-mode="dim"] .color_choice::after {
   html:not([data-mode="lit"]) main p {
     opacity: 0.9;
   }
-}
-
-@font-face {
-  font-family: 'Metropolis';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 400;
-  src: local("Metropolis Regular"), local("Metropolis-Regular"), url("../fonts/Metropolis-Regular.woff2") format("woff2"), url("../fonts/Metropolis-Regular.woff") format("woff");
-}
-
-@font-face {
-  font-family: 'Metropolis';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 400;
-  src: local("Metropolis Italic"), local("Metropolis-Italic"), url("../fonts/Metropolis-RegularItalic.woff2") format("woff2"), url("../fonts/Metropolis-RegularItalic.woff") format("woff");
-}
-
-@font-face {
-  font-family: 'Metropolis';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 300;
-  src: local("Metropolis Light"), local("Metropolis-Light"), url("../fonts/Metropolis-Light.woff2") format("woff2"), url("../fonts/Metropolis-Light.woff") format("woff");
-}
-
-@font-face {
-  font-family: 'Metropolis';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 300;
-  src: local("Metropolis Light Italic"), local("Metropolis-LightItalic"), url("../fonts/Metropolis-LightItalic.woff2") format("woff2"), url("../fonts/Metropolis-LightItalic.woff") format("woff");
-}
-
-@font-face {
-  font-family: 'Metropolis';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 500;
-  src: local("Metropolis Medium"), local("Metropolis-Medium"), url("../fonts/Metropolis-Medium.woff2") format("woff2"), url("../fonts/Metropolis-Medium.woff") format("woff");
-}
-
-@font-face {
-  font-family: 'Metropolis';
-  font-style: italic;
-  font-display: swap;
-  font-weight: 500;
-  src: local("Metropolis Medium Italic"), local("Metropolis-MediumItalic"), url("../fonts/Metropolis-MediumItalic.woff2") format("woff2"), url("../fonts/Metropolis-MediumItalic.woff") format("woff");
-}
-
-@font-face {
-  font-family: 'Cookie';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 400;
-  src: local("Cookie-Regular"), url("../fonts/cookie-v10-latin-regular.woff") format("woff2"), url("../fonts/cookie-v10-latin-regular.woff") format("woff");
 }
 
 @keyframes showMenu {
