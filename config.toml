@@ -5,7 +5,7 @@ title = "Nix Life"
 theme = "newsroom"
 author = "Nix"
 canonifyurls = true
-paginate = 6
+# paginate = 3
 
 [markup]
   [markup.goldmark.renderer]
